@@ -22,11 +22,10 @@ https://www.python.org/
 
 Order of Operations: PEMDAS
 
-P
-	Parentheses first
-E
-	Exponents (ie Powers and Square Roots, etc.)
-MD
-	Multiplication and Division (left-to-right)
-AS
-	Addition and Subtraction (left-to-right)
+P - Parentheses first
+
+E - Exponents (ie Powers and Square Roots, etc.)
+
+MD - Multiplication and Division (left-to-right)
+
+AS - Addition and Subtraction (left-to-right)
