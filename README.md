@@ -18,3 +18,15 @@ Youtube: https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9Lk
 Python Website:
 
 https://www.python.org/
+
+
+Order of Operations: PEMDAS
+
+P
+	Parentheses first
+E
+	Exponents (ie Powers and Square Roots, etc.)
+MD
+	Multiplication and Division (left-to-right)
+AS
+	Addition and Subtraction (left-to-right)
